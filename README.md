@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-learning the ropes
+Just playing around with github
